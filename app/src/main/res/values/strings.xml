@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeterToInches</string>
+    <string name="valid_error">Put the numbur In!!</string>
 </resources>
